@@ -1,18 +1,5 @@
-## Getting Started
+## Expression Evaluator
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The Expression Evaluator is a simple Java-based tool that reads mathematical expressions from a file, tokenizes them, and prints out each token with its type (such as numbers, operators, brackets, or trigonometric functions). The project demonstrates basic concepts of file handling, tokenization, and object-oriented programming in Java. This evaluator can be extended further to handle complex arithmetic and expressions with operator precedence or parentheses evaluation.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
